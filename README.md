@@ -10,7 +10,7 @@ Simulador de um Cofrinho feito em Java. Opção para adicionar diferentes moedas
 
 
 
-## Demonstration
+## Demonstração no eclipse
 
 <img src="imagemEclipse.png">
 
